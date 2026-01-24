@@ -8,7 +8,6 @@
 
 **SpendSmart** is a modern Android application designed to help young adults and students take control of their financial health. Unlike basic calculators, SpendSmart provides a comprehensive **"Single Activity, Multi-Fragment"** experience that allows for seamless navigation between spending dashboards, data entry, and financial insights.
 
-> **Our Goal:** To achieve a 20/20 score by implementing advanced UI/UX principles (Material Design 3) and robust local data persistence.
 
 ---
 

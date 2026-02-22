@@ -38,11 +38,11 @@ Financial literacy is a critical life skill. By providing a tool that offers rea
 | --- | --- | --- | --- | --- |
 | 1 | **Shemiramoth Mugo** | SCT212-0061/2023 | **Technical Lead** | Architecture, GitHub Mgmt & Reset Logic |
 | 2 | **Lee Kariuki** | SCT212-0049/2023 | **Lead UI Designer** | Material 3 Styles & XML Layouts |
-| 3 | **Gabriella Muthoni** | SCT212-0330/2023 | **Input System Dev** | Entry Form Data Capture & Mapping |
+| 3 | **Linet Mungai** | SCT212-0042/2023 | **Input System Dev** | Entry Form Data Capture & Mapping |
 | 4 | **Felix Wanyoike** | SCT212-0248/2023 | **Validation Lead** | Field Error Handling & Regex Logic |
 | 5 | **Cecil Kioko** | SCt212-0047/2023 | **Database Manager** | Local Persistence (Room/SQLite) |
 | 6 | **Emmanuel Mwangangi** | SCT212-0331/2023 | **Math & Logic Dev** | Budget Algorithms & Percentages |
-| 7 | **Linet Mungai** | SCT212-0042/2023 | **Visualization Dev** | Dashboard UI & Dynamic Feedback |
+| 7 | **Gabriella Muthoni** | SCT212-0330/2023 | **Visualization Dev** | Dashboard UI & Dynamic Feedback |
 | 8 | **Samuel Kuria** | SCT212-0476/2023 | **QA & Tech Writer** | Testing & Final Project Report |
 
 ---
@@ -50,9 +50,9 @@ Financial literacy is a critical life skill. By providing a tool that offers rea
 ## 🛠️ Technologies Used
 
 * **Language:** Java
-* **IDE:** Android Studio (Koala/Ladybug)
+* **IDE:** Android Studio 
 * **Architecture:** Single Activity with Fragments & Navigation Component
-* **UI Framework:** Material Design 3 (Google)
+* **UI Framework:** Material Design 3 
 * **Database:** SQLite / Room Persistence Library
 
 ---
@@ -65,8 +65,3 @@ To clone this project and run it in Android Studio:
 git clone https://github.com/Shemira01/MADD-Project-2.git
 
 ```
-
-**Prepared by:** Shemiramoth Mugo (Technical Lead)
-
-
----

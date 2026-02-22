@@ -11,4 +11,12 @@
     <color name="status_green">#4CAF50</color>
     <color name="status_yellow">#FFC107</color>
     <color name="status_red">#F44336</color>
+
+    <!-- Lee  -->
+    <!-- Dashboard -->
+    <color name="md_theme_light_primary">#6750A4</color>
+
+    <!-- Item category -->
+    <color name="md_theme_light_onBackground">#000000</color>
+
 </resources>

@@ -8,6 +8,7 @@
 
     <!-- Form Labels -->
     <string name="lbl_amount">Amount (KSh)</string>
+    <string name="lbl_title">Expense Title</string>
     <string name="lbl_category">Category</string>
     <string name="lbl_date">Date</string>
 
